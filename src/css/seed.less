@@ -1,0 +1,43 @@
+@import "seattletimes";
+
+responsive-child {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+h1 {
+  margin: 0 auto;
+  padding: 100px;
+  text-align: center;
+  font-size: 60px;
+  font-family: 'Nixie One', cursive;
+  color: #fff;
+  text-shadow: 0 0 5px #fff,
+    0 0 10px #fff,
+    0 0 20px #ff0080,
+    0 0 30px #ff0080,
+    0 0 40px #ff0080,
+    0 0 55px #ff0080,
+    0 0 75px #ff0080,
+    0 0 100px #ff0080;
+  background-color: black;
+  position: relative;
+}
+
+.blink1 {
+  position: absolute;
+  
+  animation: blink 4s linear 0s infinite;
+}
+.blink2 {
+  position: absoute;
+  opacity: 0;
+  animation: blink 4s linear 2s infinite;
+}
+
+@keyframes blink {
+  0% { opacity: 1; }
+  25% { opacity: 1; }
+  26% { opacity: 0; }
+  100% { opacity: 0; }
+}

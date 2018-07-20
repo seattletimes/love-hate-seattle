@@ -10,15 +10,20 @@
     <%= t.include("partials/_ad.html", { type: "banner" }) %>
 
     <header class="splash">
-      <h1>I hate you, Seattle</h1>
-      <h2>A love story</h2>
+      <img src="assets/photos/Tbeason-Lovehate-seattle-header.jpg" alt="<%= json.photos.header.caption %>">
+      <div class="headline">
+        <h1>I hate you, Seattle</h1>
+        <h2>A love story</h2>
+      </div>
     </header>
     <main>
-      <div class="byline">
-        <span>By <a href="https://www.seattletimes.com/author/tyrone-beason/">Tyrone Beason</a></span>
-        <span class="job-title">Pacific NW magazine writer</span>
-        <span>Published July TK, 2018</span>
-      </div>
+      <section>
+        <div class="byline">
+          <span>By <a href="https://www.seattletimes.com/author/tyrone-beason/">Tyrone Beason</a></span>
+          <span class="staff">Pacific NW magazine writer</span>
+          <span class="date">Published July TK, 2018</span>
+        </div>
+      </section>
       <section>
         <%= t.renderMarkdown(archieml.story.section1_1) %>
         <%= t.include("_image-group.html", { json, num: 1 }) %>

@@ -1,19 +1,30 @@
 header.splash {
   position: relative;
-  background: no-repeat center/cover url("assets/photos/Tbeason-Lovehate-seattle-header.jpg");
   width: 100%;
-  height: 0;
-  padding-top: percentage(712/1920);
 
+  img {
+    display: block;
+    width: 100%;
+  }
+}
+
+div.headline {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  .display-flex();
+  .flex-direction(column);
+  .justify-content(center);
   @media @mobile {
-    padding-top: percentage(1/2);
+    position: static;
+    margin-top: 50px;
   }
 }
 
 h1, h2 {
-  position: absolute;
-  top: 0;
-  left: 0;
+  font-size: 62px;
   text-transform: uppercase;
   margin: 0 auto;
   width: 100%;
@@ -30,43 +41,21 @@ h1, h2 {
   0 0 75px #ff0080;
   background-color: transparent;
   opacity: 0;
+  @media @tablet {
+    font-size: 8vw;
+  }
 }
 
 h1 {
-  text-align: center;
-   padding: 150px 0 50px;
-  font-size: 62px;
   animation: blink 1.5s linear 0s 1,
     longblink 13s linear 1.4s infinite,
     glow 2s ease-in-out 3s infinite alternate;
-
-  @media @tablet {
-    padding-top: 80px;
-    font-size: 50px;
-  }
-
-  @media @mobile {
-    padding-top: 30px;
-    font-size: 40px;
-  }
 }
 
 h2 {
-  padding: 210px 0 30px;
-  font-size: 62px;
   animation: blink 1.5s linear 0.5s 1,
     longblink 11s linear 1.9s infinite,
     glow 4s ease-in-out 3s infinite alternate;
-
-  @media @tablet {
-    padding-top: 150px;
-    font-size: 30px;
-  }
-
-  @media @mobile {
-    padding-top: 100px;
-    font-size: 20px;
-  }
 }
 
 @keyframes blink {

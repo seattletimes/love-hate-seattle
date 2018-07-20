@@ -15,8 +15,9 @@
     </header>
     <main>
       <div class="byline">
-        <span>By Tyrone Beason</span>
-        <span>Pacific NW magazine writer</span>
+        <span>By <a href="https://www.seattletimes.com/author/tyrone-beason/">Tyrone Beason</a></span>
+        <span class="job-title">Pacific NW magazine writer</span>
+        <span>Published July TK, 2018</span>
       </div>
       <section>
         <%= t.renderMarkdown(archieml.story.section1_1) %>
@@ -25,15 +26,16 @@
         <%= t.include("_image-group.html", { json, num: 2 }) %>
         <%= t.renderMarkdown(archieml.story.section1_3) %>
       </section>
-      <img class="bleed" src="assets/photos/<%= json.photos.section1.new_file_name %>.jpg" alt="<%= json.photos.section1.new_file_name.caption %>">
+      <img class="bleed" src="assets/photos/<%= json.photos.section1.new_file_name %>.jpg" alt="<%= json.photos.section1.caption %>">
       <section>
         <%= t.renderMarkdown(archieml.story.section2_1) %>
         <%= t.include("_image-group.html", { json, num: 3 }) %>
         <%= t.renderMarkdown(archieml.story.section2_2) %>
         <%= t.include("_image-group.html", { json, num: 4 }) %>
+        <%= t.include("partials/_ad.html", { type: "square", id: "middle-ad" }) %>
         <%= t.renderMarkdown(archieml.story.section2_3) %>
       </section>
-      <img class="bleed" src="assets/photos/<%= json.photos.section2.new_file_name %>.jpg" alt="<%= json.photos.section2.new_file_name.caption %>">
+      <img class="bleed" src="assets/photos/<%= json.photos.section2.new_file_name %>.jpg" alt="<%= json.photos.section2.caption %>">
       <section>
         <%= t.renderMarkdown(archieml.story.section3_1) %>
         <%= t.include("_image-group.html", { json, num: 5 }) %>
@@ -58,9 +60,9 @@
       </section>
       <footer class="credit">
         <ul>
-          <li>Tyrone Beason is a Pacific NW magazine writer. Reach him at <a href="mailto:tbeason@seattletimes.com">tbeason@seattletimes.com</a> or <a href="tel:+12064642251">206-464-2251.</a></li>
-          <li><b>Design:</b> Clare Ortblad and Emily M. Eng.</li>
-          <li><b>Development:</b> Alec Glassford.</li>
+          <li><b>Reporter</b>: Tyrone Beason, <a href="mailto:tbeason@seattletimes.com">tbeason@seattletimes.com</a>; on Instagram: <a href="https://www.instagram.com/tyrone_seattle/">tyrone_beason</a></li>
+          <li><b>Design:</b> Clare Ortblad and Emily M. Eng</li>
+          <li><b>Development:</b> Alec Glassford</li>
         </ul>
       </footer>
     </main>

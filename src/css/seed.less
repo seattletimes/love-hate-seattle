@@ -3,6 +3,10 @@
 @neon: #ff0080;
 @neonpurple: #f000ff;
 
+body {
+  font-size: 18px;
+}
+
 main {
   font-family: @df-sans;
 }
@@ -17,7 +21,7 @@ section {
 }
 
 .byline, p {
-  margin: 19px auto;
+  margin: 18px auto;
   max-width: 630px;
 }
 
@@ -25,11 +29,15 @@ section {
   margin-top: 50px;
   span {
     display: block;
+
+    &.job-title {
+      font-style: italic;
+    }
   }
 }
 
 span.drop-cap {
-  font-size: 26px;
+  font-size: 20px;
   font-weight: bold;
   text-transform: uppercase;
   font-family: Offside, @df-sans;
@@ -45,14 +53,18 @@ figure {
     margin: 0 auto;
   }
   figcaption {
+    margin: 20px auto 0;
+    max-width: 630px;
     display: block;
-    font-size: 16px;
+    font-size: 15px;
+    color: @df-middle-gray;
     font-style: italic;
   }
 }
 
 img.bleed {
   display: block;
+  margin: 50px 0;
   width: 100%;
 }
 
@@ -89,6 +101,7 @@ aside {
 // Adapated from South Park project
 .bc-no-preroll {
   position: relative;
+  margin: 50px 0;
   width: 100%;
   height: 0;
   padding-top: percentage(9 / 16);
@@ -104,15 +117,25 @@ aside {
 }
 
 footer.credit {
-  margin: 0 16px;
+  margin: 0 16px 48px;
   ul {
     margin: 0 auto;
     padding: 0;
-    max-width: 730px;
+    max-width: 630px;
     list-style: none;
   }
   li {
     margin-bottom: 8px;
+  }
+}
+
+.ad#middle-ad {
+  float: right;
+  margin-left: 5px;
+
+  @media @mobile {
+    float: none;
+    margin-left: auto;
   }
 }
 

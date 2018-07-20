@@ -6,15 +6,14 @@
     },
     "live": {
       "bucket": "projects.seattletimes.com",
-      "path": ""
+      "path": "2018/love-hate-seattle"
     }
   },
   "title": "I hate you, Seattle: A love story",
-  "description": "",
-  "url": "",
+  "description": "Tyrone Beason embarks on a journey to rekindle his flame for a shape-shifting city.",
+  "url": "https://projects.seattletimes.com/2018/love-hate-seattle/",
   "image": "assets/social.jpg",
   "sheets": ["1pD7S3TFjR0Oj3myfLf9Gqqww96LqJb3Xvr4tLzQWH2s"],
   "standout": false,
-  "embedded": true,
-  "production": false
+  "embedded": false
 }

@@ -1,5 +1,5 @@
 section1_1:
-\SEATTLE: I DON’T think I love you like I used to.
+<span class="drop-cap">Seattle: I don't</span> think I love you like I used to.
 
 Some days, I don’t know whether I love you at all.
 
@@ -39,7 +39,7 @@ On Instagram, I’ve tried to explore this bewildering sense of upheaval and yea
 :end
 
 section2_1:
-I FELL FOR you hard in 1994, Seattle.
+<span class="drop-cap">I fell for</span> you hard in 1994, Seattle.
 
 I was a skinny kid from tobacco country, and you were all leather jackets, plaid shirts and piercings, bright lights/big city, steep hills and low-slung watering holes. You were open. You were scruffy. You were weird. At least in my imagination. But the mind has a funny way of casting memories in a neon glow.
 
@@ -69,7 +69,7 @@ I feel it when I walk into a room filled with white people I imagine can’t pos
 
 Seattle took hold of me, its hills and gray and eyes-to-the-sidewalk passivity. All of it, its charms and its flaws. For so long, my love for it was unconditional. But now is the time to remember that cities always come with conditions.
 
-The fine print on my yearning for the spirit of the past spells it out clearly: I, too, arrived here with an unsettling, cost-of-living-busting wave of newcomers in the mid-1900s, a wide-eyed country boy in an Emerald City that was just fine without me. I had no right to expect the city that cast its spell on me then to freeze in time on my account.
+The fine print on my yearning for the spirit of the past spells it out clearly: I, too, arrived here with an unsettling, cost-of-living-busting wave of newcomers in the mid-1990s, a wide-eyed country boy in an Emerald City that was just fine without me. I had no right to expect the city that cast its spell on me then to freeze in time on my account.
 
 In those two decades, I allowed myself to grow up. Seattle needs a chance to come into its own, too, to fill in the gaps between what was and what’s to come.
 
@@ -77,7 +77,7 @@ But if we’ve grown apart, it’s because we both forgot the terms of our love 
 :end
 
 section3_1:
-I MOVED HERE to realize my future. Seattle delivered. So why do I feel so trapped in yesteryear, like the exchange laid out on my arrival has been shifted heavily in another party’s favor?
+<span class="drop-cap">I moved here</span> to realize my future. Seattle delivered. So why do I feel so trapped in yesteryear, like the exchange laid out on my arrival has been shifted heavily in another party’s favor?
 
 Back then, the tech giant upending the city’s sense of itself was Microsoft. But Microsoft stood aloof among the tall evergreens of Redmond, its fingerprint minimal on the culture of the urban core.
 
@@ -109,7 +109,7 @@ I’m going to strike up conversations with strangers even if they shyly lower t
 :end
 
 section4_1:
-OUR RELATIONSHIP HAS changed, Seattle. I love you, but I’m going to have to be OK with not being in love with you. Affection has morphed into dedication. Yesterday’s infatuation has led to a sentence-finishing familiarity. I know you better than you know yourself, because as much as I want to think I don’t see myself reflected in you, we are one and the same.
+<span class="drop-cap">Our relationship has</span> changed, Seattle. I love you, but I’m going to have to be OK with not being in love with you. Affection has morphed into dedication. Yesterday’s infatuation has led to a sentence-finishing familiarity. I know you better than you know yourself, because as much as I want to think I don’t see myself reflected in you, we are one and the same.
 
 I made you in my image, and so did every dreamer, laborer, exile, fortune-seeker, idealist, adventurer, innovator, old-timer and wiseass iconoclast who ever decided to build a life here.
 

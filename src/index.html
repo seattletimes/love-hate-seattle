@@ -13,22 +13,31 @@
     <main>
       <section>
         <%= t.renderMarkdown(archieml.story.section1_1) %>
+        <%= t.include("_image-group.html", { json, num: 1 }) %>
         <%= t.renderMarkdown(archieml.story.section1_2) %>
+        <%= t.include("_image-group.html", { json, num: 2 }) %>
         <%= t.renderMarkdown(archieml.story.section1_3) %>
       </section>
+      <img class="bleed" src="assets/photos/<%= json.photos.section1.new_file_name %>.jpg" alt="<%= json.photos.section1.new_file_name.caption %>">
       <section>
         <%= t.renderMarkdown(archieml.story.section2_1) %>
+        <%= t.include("_image-group.html", { json, num: 3 }) %>
         <%= t.renderMarkdown(archieml.story.section2_2) %>
+        <%= t.include("_image-group.html", { json, num: 4 }) %>
         <%= t.renderMarkdown(archieml.story.section2_3) %>
       </section>
+      <img class="bleed" src="assets/photos/<%= json.photos.section2.new_file_name %>.jpg" alt="<%= json.photos.section2.new_file_name.caption %>">
       <section>
         <%= t.renderMarkdown(archieml.story.section3_1) %>
+        <%= t.include("_image-group.html", { json, num: 5 }) %>
         <%= t.renderMarkdown(archieml.story.section3_2) %>
         <%= t.renderMarkdown(archieml.story.section3_3) %>
       </section>
       <section>
         <%= t.renderMarkdown(archieml.story.section4_1) %>
+        <%= t.include("_image-group.html", { json, num: 6 }) %>
         <%= t.renderMarkdown(archieml.story.section4_2) %>
+        <%= t.include("_image-group.html", { json, num: 7 }) %>
       </section>
     </main>
 

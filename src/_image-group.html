@@ -1,0 +1,6 @@
+<% var group = json.photos[num]; %>
+
+<figure aria-describedy="caption-<%= num %>">
+  <img src="assets/photos/<%= group.new_file_name %>.jpg" alt="<%= group.caption %>">
+  <figcaption id="caption-<%= num %>"><%= group.caption %></figcaption>
+</figure>

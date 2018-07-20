@@ -9,4 +9,40 @@ p {
   max-width: 630px;
 }
 
+span.drop-cap {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: Offside, @df-sans;
+  color: #ff0080;
+  animation: lilglow 1.5s ease-in-out infinite alternate;
+}
+
+figure {
+  display: block;
+  margin: 0 auto;
+  max-width: 730px;
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  figcaption {
+    display: block;
+    font-size: 16px;
+  }
+}
+
+img.bleed {
+  width: 100%;
+}
+
+@keyframes lilglow {
+  from {
+     text-shadow: 0 0 3px #fff,
+      0 0 2px #ff0080,
+  }
+  to {
+     text-shadow: 0 0 3px #fff,
+      0 0 6px #ff0080;
+  }
+}
 @import "header";

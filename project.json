@@ -2,14 +2,14 @@
   "s3": {
     "stage": {
       "bucket": "projects-staging.seattletimes.com",
-      "path": ""
+      "path": "unfaithful-mailer"
     },
     "live": {
       "bucket": "projects.seattletimes.com",
       "path": ""
     }
   },
-  "title": "",
+  "title": "I hate you, Seattle: A love story",
   "description": "",
   "url": "",
   "image": "assets/social.jpg",

@@ -23,12 +23,12 @@ h1, h2 {
   opacity: 0;
   // https://cssreset.com/create-glowing-neon-text-using-css3/
   text-shadow: 0 0 5px #fff,
-  0 0 10px #ff0080,
-  0 0 20px #ff0080,
-  0 0 30px #ff0080,
-  0 0 40px #ff0080,
-  0 0 55px #ff0080,
-  0 0 75px #ff0080;
+  0 0 10px @neon,
+  0 0 20px @neon,
+  0 0 30px @neon,
+  0 0 40px @neon,
+  0 0 55px @neon,
+  0 0 75px @neon;
   background-color: transparent;
 }
 
@@ -99,23 +99,23 @@ h2 {
 @keyframes glow {
   from {
      text-shadow: 0 0 5px #fff,
-      0 0 10px #ff0080,
-      0 0 20px #ff0080,
-      0 0 30px #ff0080,
-      0 0 40px #ff0080,
-      0 0 55px #ff0080,
-      0 0 75px #ff0080;
+      0 0 10px @neon,
+      0 0 20px @neon,
+      0 0 30px @neon,
+      0 0 40px @neon,
+      0 0 55px @neon,
+      0 0 75px @neon;
   }
   to {
      text-shadow: 0 0 5px #fff,
-      0 0 10px #ff0080,
-      0 0 20px #ff0080,
-      0 0 30px #ff0080,
-      0 0 40px #ff0080,
-      0 0 55px #ff0080,
-      0 0 75px #ff0080,
-      0 0 100px #ff0080,
-      0 0 200px #ff0080,
-      0 0 300px #ff0080;
+      0 0 10px @neon,
+      0 0 20px @neon,
+      0 0 30px @neon,
+      0 0 40px @neon,
+      0 0 55px @neon,
+      0 0 75px @neon,
+      0 0 100px @neon,
+      0 0 200px @neon,
+      0 0 300px @neon;
   }
 }

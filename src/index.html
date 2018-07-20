@@ -33,6 +33,7 @@
         <%= t.renderMarkdown(archieml.story.section3_2) %>
         <%= t.renderMarkdown(archieml.story.section3_3) %>
       </section>
+      <%= t.include("_video.html", { id: "TK" }) %>
       <section>
         <%= t.renderMarkdown(archieml.story.section4_1) %>
         <%= t.include("_image-group.html", { json, num: 6 }) %>

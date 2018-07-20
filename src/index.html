@@ -38,6 +38,15 @@
         <%= t.renderMarkdown(archieml.story.section3_1) %>
         <%= t.include("_image-group.html", { json, num: 5 }) %>
         <%= t.renderMarkdown(archieml.story.section3_2) %>
+        <aside class="audio">
+          <div>
+            <img src="assets/photos/Tbeason-Lovehate-seattle-monique.jpg" alt="Portrait of Monique Brown">
+            <span>Listen to Monique Brown</span>
+          </div>
+          <audio src="assets/monique-brown.mp3" controls preload="metadata">
+            Your browser is not able to play this audio.
+          </audio>
+        </aside>
         <%= t.renderMarkdown(archieml.story.section3_3) %>
       </section>
       <%= t.include("_video.html", { id: "TK" }) %>

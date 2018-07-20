@@ -88,11 +88,10 @@ section3_2:
 Much of the intersection of Sixth Avenue and Lenora Street, by Amazon’s new headquarters, looks as if it were minted in a factory. Walking by one afternoon, the only reason I know where I am is because bronze letters embedded in the sidewalk spell out L-E-N-O-R-A, and because the black awning at Dimitriou’s Jazz Alley recalls old-school Seattle.
 
 We are bigger and in a lot of ways better. But so many of us fret that we might be worse off because of it, shrunken and disoriented, staring out from the looking glass of a buzzy wonderland that’s blissfully detached from our precious worries onto a cityscape dotted with homeless tent camps.
-
-The fact is, as the region builds itself up, it is locking people out or, rather, knocking them around. Almost gone are the safe zones where people who were displaced from one neighborhood or suburb could find affordable rents or for-sale homes in another. The region’s good fortune has led to an uneven windfall that’s forcing people to decide not between one district or another, but between Seattle or somewhere else altogether, between identifying with this place or saying to hell with it.
 :end
 
 section3_3:
+The fact is, as the region builds itself up, it is locking people out or, rather, knocking them around. Almost gone are the safe zones where people who were displaced from one neighborhood or suburb could find affordable rents or for-sale homes in another. The region’s good fortune has led to an uneven windfall that’s forcing people to decide not between one district or another, but between Seattle or somewhere else altogether, between identifying with this place or saying to hell with it.
 The official federal poverty level for a single-person household in the United States was $15,060 in 2017.
 
 But an individual in King or Snohomish counties who earns $50,400 or less is considered low-income, according to calculations by the U.S. Department of Housing and Urban Development. A perfectly middle-class income for most of the country equals a poverty wage in the Seattle area.
@@ -123,5 +122,3 @@ This city still belongs to us, old-timers and newcomers alike.
 
 We have to help each other keep pace and force the sort of destiny that’s dreamed up in board rooms to bend to our will, not the other way around.
 :end
-
-author:Tyrone Beason is a Pacific NW magazine writer. Reach him at [tbeason@seattletimes.com]() or 206-464-2251.

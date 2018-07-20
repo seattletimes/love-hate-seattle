@@ -1,6 +1,7 @@
 @import "seattletimes";
 
 @neon: #ff0080;
+@neonpurple: #f000ff;
 
 main {
   font-family: @df-sans;
@@ -8,7 +9,11 @@ main {
 
 
 section {
-  margin: 0 16px;
+  max-width: 800px;
+  margin: 0 auto;
+  @media @tablet {
+    margin: 0 16px;
+  }
 }
 
 .byline, p {
@@ -49,6 +54,36 @@ figure {
 img.bleed {
   display: block;
   width: 100%;
+}
+
+aside {
+  display: block;
+  float: right;
+  margin-left: 10px;
+  max-width: 250px;
+  border-left: 1px solid @neonpurple;
+  padding-left: 10px;
+
+  @media @mobile {
+    float: none;
+    margin: 0 auto;
+    border-left: none;
+    padding-left: 0;
+  }
+  
+  div {
+    .display-flex();
+    .justify-content(space-between);
+  }
+
+  span {
+    padding-left: 20px;
+  }
+
+  audio {
+    display: block;
+    max-width: 100%;
+  }
 }
 
 // Adapated from South Park project

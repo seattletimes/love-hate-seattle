@@ -1,0 +1,85 @@
+h1, h2 {
+  text-transform: uppercase;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Offside', cursive;
+  color: #fff;
+  opacity: 0;
+  // https://cssreset.com/create-glowing-neon-text-using-css3/
+  text-shadow: 0 0 5px #fff,
+  0 0 10px #ff0080,
+  0 0 20px #ff0080,
+  0 0 30px #ff0080,
+  0 0 40px #ff0080,
+  0 0 55px #ff0080,
+  0 0 75px #ff0080;
+  background-color: transparent;
+  position: relative;
+}
+
+h1 {
+  padding: 100px 0 50px;
+  font-size: 60px;
+  animation: blink 1.5s linear 0s 1,
+    longblink 12s linear 3s infinite,
+    glow 2s ease-in-out 3s infinite alternate;
+}
+
+h2 {
+  padding: 0 0 50px;
+  font-size: 40px;
+  animation: blink 1.5s linear 0.5s 1,
+    longblink 11s linear 3.2s infinite,
+    glow 4s ease-in-out 3s infinite alternate;
+}
+
+@keyframes blink {
+  0% { opacity: 0; }
+  79% { opacity: 0; }
+  80% { opacity: 0.8; }
+  82% { opacity: 0.8; }
+  83% { opacity: 0.5; }
+  88% { opacity: 0.5; }
+  89% { opacity: 0.9; }
+  98% { opacity: 0.9; }
+  99% { opacity: 0.7 }
+  100% { opacity: 1; }
+}
+
+@keyframes longblink {
+  0% { opacity: 1 }
+  53% { opacity: 1 }
+
+  54% { opacity: 0.5 }
+  55% { opacity: 0.5 }
+
+  56% { opacity: 0.9 }
+  98% { opacity: 0.9 }
+
+  99% { opacity: 0.7 }
+  100% { opacity: 0.7 }
+}
+
+@keyframes glow {
+  from {
+     text-shadow: 0 0 5px #fff,
+      0 0 10px #ff0080,
+      0 0 20px #ff0080,
+      0 0 30px #ff0080,
+      0 0 40px #ff0080,
+      0 0 55px #ff0080,
+      0 0 75px #ff0080;
+  }
+  to {
+     text-shadow: 0 0 5px #fff,
+      0 0 10px #ff0080,
+      0 0 20px #ff0080,
+      0 0 30px #ff0080,
+      0 0 40px #ff0080,
+      0 0 55px #ff0080,
+      0 0 75px #ff0080,
+      0 0 100px #ff0080,
+      0 0 200px #ff0080,
+      0 0 300px #ff0080;
+  }
+}

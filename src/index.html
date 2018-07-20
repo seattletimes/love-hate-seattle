@@ -6,9 +6,31 @@
     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
-
-    <h1>I hate you, Seattle</h1>
-    <h2>A love story</h2>
+    <header>
+      <h1>I hate you, Seattle</h1>
+      <h2>A love story</h2>
+    </header>
+    <main>
+      <section>
+        <%= t.renderMarkdown(archieml.story.section1_1) %>
+        <%= t.renderMarkdown(archieml.story.section1_2) %>
+        <%= t.renderMarkdown(archieml.story.section1_3) %>
+      </section>
+      <section>
+        <%= t.renderMarkdown(archieml.story.section2_1) %>
+        <%= t.renderMarkdown(archieml.story.section2_2) %>
+        <%= t.renderMarkdown(archieml.story.section2_3) %>
+      </section>
+      <section>
+        <%= t.renderMarkdown(archieml.story.section3_1) %>
+        <%= t.renderMarkdown(archieml.story.section3_2) %>
+        <%= t.renderMarkdown(archieml.story.section3_3) %>
+      </section>
+      <section>
+        <%= t.renderMarkdown(archieml.story.section4_1) %>
+        <%= t.renderMarkdown(archieml.story.section4_2) %>
+      </section>
+    </main>
 
     <script src="app.js" async></script>
     <% if (json.project.production) { %>

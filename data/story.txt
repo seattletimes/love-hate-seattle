@@ -1,12 +1,4 @@
-section1:
-# I hate you, Seattle: a love story
-
-Tyrone Beason embarks on a journey to rekindle his flame for a shape-shifting city.
-
-## My Instagram story
-
-These photos (and more), plus video interviews, notes and capsule stories can be found on my Instagram page, [tyrone_seattle](https://www.instagram.com/tyrone_seattle/). The photos for this story were created on an Android camera and edited with Instagram and other photo-editing apps to emphasize mood and illustrate ideas reflected in the article.
-
+section1_1:
 \SEATTLE: I DON’T think I love you like I used to.
 
 Some days, I don’t know whether I love you at all.
@@ -18,7 +10,9 @@ There’s nothing I can write with an old-fashioned notebook and pen to capture 
 The idea of falling out of love, so maudlin when I see it written down now, overtook my thinking as I sketched mini-portraits of the city on dozens of outings and random conversations at all hours of the day and night. Every hour in Seattle reveals something about what we’ve become, the people who give this place its soul, the struggles and glories that define our times. Each moment has the potential to feed our love for the city and our belief in its potential, but also to make us question what we’ve wrought.
 
 Here I have abandoned traditional reporting tools in favor of Instagram, and my “notes” can be found there at [tyrone_seattle](https://www.instagram.com/tyrone_seattle/). The pictures, videos, vignettes and musings collected, filtered with phone apps and through my own conflicted imagination, reflect my attempt as a reporter and as a longtime local to identify with and continue to love a city that’s shape-shifting before our eyes.
+:end
 
+section1_2:
 Seattle’s morphing at an unreal clip, like a Hollywood fairy-tale version of transformation, where downtown towers and apartment blocks rise as if by magic, and where streets that were deserted a few years ago teem with life but still seem soulless.
 
 I feel as if I’m moving slow-motion in a city on hyper-speed, reaching out for something in the past to anchor me in the undertow, through waves of newcomers who have no idea that gay boys used to pretend not to be into each other under the blue lights of Manray on Pine Street, now an apartment block, or that at the 23rd and Union Red Apple, now a construction zone, you could buy fried catfish and stewed greens and all sorts of pork and beef innards.
@@ -28,7 +22,9 @@ We’re changing beyond recognition, but I refuse to believe there’s no place 
 Seattle’s reaching for the sky, but I’m trying to keep my roots firmly planted in its glacial silt, now more unreliable than ever.
 
 But nearly everywhere I look, construction pits hollow out holes in my heart and in my sense of place. I stare in the windows of gleaming new buildings and struggle to see where I fit in to all of this.
+:end
 
+section1_3:
 From a swanky new downtown rooftop at sunset, the fresh air brings moments of calm and clarity, and I see them, glass towers reflecting coppery light, mountains in silhouette to the west and a narrow sea streaked with the wakes of cargo tankers and ferries and sailboats.
 
 This is what I saw when I fell in love with Seattle more than 20 years ago, an unpretentious beauty done up in hints of glamour.
@@ -40,7 +36,9 @@ When we wake up from this dazzling dream sequence of a Golden Age, we will open 
 There’s no time for swooning nostalgia in a city that is always on to the next thing, though. Not even the past can find its place in this whirlwind.
 
 On Instagram, I’ve tried to explore this bewildering sense of upheaval and yearning for what came before. The moments that inspire each post give me hope, but they’re so fleeting.
+:end
 
+section2_1:
 I FELL FOR you hard in 1994, Seattle.
 
 I was a skinny kid from tobacco country, and you were all leather jackets, plaid shirts and piercings, bright lights/big city, steep hills and low-slung watering holes. You were open. You were scruffy. You were weird. At least in my imagination. But the mind has a funny way of casting memories in a neon glow.
@@ -56,13 +54,17 @@ Instead of loving you less, maybe I should harden my resolve and try to love you
 It’s healthy to accept that change is inevitable in any city. But what is not inevitable is love. Love for a place, like love for a person, is a process that requires constant attention.
 
 This is my city. I feel its affection for me when accepting hugs from regulars under the red lights at Rebar, or passing somebody wearing Value Village chic who just knows they made my day.
+:end
 
+section2_2:
 I feel it whenever I spot political signs or street art around town that line up with everything I believe about justice and equality.
 
 I feel it every time Eddie McFerrin, the shoeshine guy at First and Washington, shouts out to me just to be cool, never making me feel guilty for not stopping to give him some business, though he should.
 
 I feel it on that rooftop at sunset, where my thrift-store nostalgia drowns in a $15 cocktail in a tiny glass that tastes so good I’m forced to admit, between sips and against my other impulses, that this really is living the dream.
+:end
 
+section2_3:
 I feel it when I walk into a room filled with white people I imagine can’t possibly know the pressure of being on the inside but not in the in-group, then instantly bond with another lone P.O.C. in the crowd so we can represent together.
 
 Seattle took hold of me, its hills and gray and eyes-to-the-sidewalk passivity. All of it, its charms and its flaws. For so long, my love for it was unconditional. But now is the time to remember that cities always come with conditions.
@@ -72,19 +74,25 @@ The fine print on my yearning for the spirit of the past spells it out clearly: 
 In those two decades, I allowed myself to grow up. Seattle needs a chance to come into its own, too, to fill in the gaps between what was and what’s to come.
 
 But if we’ve grown apart, it’s because we both forgot the terms of our love affair.
+:end
 
+section3_1:
 I MOVED HERE to realize my future. Seattle delivered. So why do I feel so trapped in yesteryear, like the exchange laid out on my arrival has been shifted heavily in another party’s favor?
 
 Back then, the tech giant upending the city’s sense of itself was Microsoft. But Microsoft stood aloof among the tall evergreens of Redmond, its fingerprint minimal on the culture of the urban core.
 
 Amazon just sold books on the World Wide Web back in the day. But today its shimmering domes and skyscrapers preen in the heart of Seattle, a downtown encrusted with so many such baubles, its earthy cool seems to have faded in the glare of our world-class ambitions.
+:end
 
+section3_2:
 Much of the intersection of Sixth Avenue and Lenora Street, by Amazon’s new headquarters, looks as if it were minted in a factory. Walking by one afternoon, the only reason I know where I am is because bronze letters embedded in the sidewalk spell out L-E-N-O-R-A, and because the black awning at Dimitriou’s Jazz Alley recalls old-school Seattle.
 
 We are bigger and in a lot of ways better. But so many of us fret that we might be worse off because of it, shrunken and disoriented, staring out from the looking glass of a buzzy wonderland that’s blissfully detached from our precious worries onto a cityscape dotted with homeless tent camps.
 
 The fact is, as the region builds itself up, it is locking people out or, rather, knocking them around. Almost gone are the safe zones where people who were displaced from one neighborhood or suburb could find affordable rents or for-sale homes in another. The region’s good fortune has led to an uneven windfall that’s forcing people to decide not between one district or another, but between Seattle or somewhere else altogether, between identifying with this place or saying to hell with it.
+:end
 
+section3_3:
 The official federal poverty level for a single-person household in the United States was $15,060 in 2017.
 
 But an individual in King or Snohomish counties who earns $50,400 or less is considered low-income, according to calculations by the U.S. Department of Housing and Urban Development. A perfectly middle-class income for most of the country equals a poverty wage in the Seattle area.
@@ -98,19 +106,22 @@ I’m going out more often, to support artists and nighttime businesses, because
 I’m going to say what I believe in, because we’ve never been shy about our idealism and concern for others, and we had better not lose that passion.
 
 I’m going to strike up conversations with strangers even if they shyly lower their gaze, because I’m a warmhearted Southern boy, and we all bring a little something from the old country that enriches the urban experience.
+:end
 
+section4_1:
 OUR RELATIONSHIP HAS changed, Seattle. I love you, but I’m going to have to be OK with not being in love with you. Affection has morphed into dedication. Yesterday’s infatuation has led to a sentence-finishing familiarity. I know you better than you know yourself, because as much as I want to think I don’t see myself reflected in you, we are one and the same.
 
 I made you in my image, and so did every dreamer, laborer, exile, fortune-seeker, idealist, adventurer, innovator, old-timer and wiseass iconoclast who ever decided to build a life here.
 
 When I moved to the Northwest, with nothing but the future in my sights, Seattle couldn’t keep up with me. The future is now, and I’m feeling as if I can’t keep up with Seattle.
+:end
 
+section4_2:
 But this city still belongs to me. I don’t want to be that guy you see in the rearview mirror, waving from a gauzy past that might or might not have been as beautiful as my mind’s eye sees it. I’ll find a way to move at the city’s speed and not be swept under by it.
 
 This city still belongs to us, old-timers and newcomers alike.
 
 We have to help each other keep pace and force the sort of destiny that’s dreamed up in board rooms to bend to our will, not the other way around.
-
-Tyrone Beason is a Pacific NW magazine writer. Reach him at [tbeason@seattletimes.com]() or 206-464-2251.
-
 :end
+
+author:Tyrone Beason is a Pacific NW magazine writer. Reach him at [tbeason@seattletimes.com]() or 206-464-2251.

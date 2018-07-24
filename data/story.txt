@@ -6,13 +6,15 @@ Some days, I don’t know whether I love you at all.
 It’s not you; it’s me. Maybe I’ve grown cold. Maybe I’m too busy mourning what you were to accept what you’ve become.
 
 There’s nothing I can write with an old-fashioned notebook and pen to capture what we’re going through during Seattle’s ongoing growth spurt, building boom, and economic and cultural upheaval.
+:end
 
+section1_2:
 The idea of falling out of love, so maudlin when I see it written down now, overtook my thinking as I sketched mini-portraits of the city on dozens of outings and random conversations at all hours of the day and night. Every hour in Seattle reveals something about what we’ve become, the people who give this place its soul, the struggles and glories that define our times. Each moment has the potential to feed our love for the city and our belief in its potential, but also to make us question what we’ve wrought.
 
 Here I have abandoned traditional reporting tools in favor of Instagram, and my “notes” can be found there at [tyrone_seattle](https://www.instagram.com/tyrone_seattle/). The pictures, videos, vignettes and musings collected, filtered with phone apps and through my own conflicted imagination, reflect my attempt as a reporter and as a longtime local to identify with and continue to love a city that’s shape-shifting before our eyes.
 :end
 
-section1_2:
+section1_3:
 Seattle’s morphing at an unreal clip, like a Hollywood fairy-tale version of transformation, where downtown towers and apartment blocks rise as if by magic, and where streets that were deserted a few years ago teem with life but still seem soulless.
 
 I feel as if I’m moving slow-motion in a city on hyper-speed, reaching out for something in the past to anchor me in the undertow, through waves of newcomers who have no idea that gay boys used to pretend not to be into each other under the blue lights of Manray on Pine Street, now an apartment block, or that at the 23rd and Union Red Apple, now a construction zone, you could buy fried catfish and stewed greens and all sorts of pork and beef innards.
@@ -24,7 +26,7 @@ Seattle’s reaching for the sky, but I’m trying to keep my roots firmly plant
 But nearly everywhere I look, construction pits hollow out holes in my heart and in my sense of place. I stare in the windows of gleaming new buildings and struggle to see where I fit in to all of this.
 :end
 
-section1_3:
+section1_4:
 From a swanky new downtown rooftop at sunset, the fresh air brings moments of calm and clarity, and I see them, glass towers reflecting coppery light, mountains in silhouette to the west and a narrow sea streaked with the wakes of cargo tankers and ferries and sailboats.
 
 This is what I saw when I fell in love with Seattle more than 20 years ago, an unpretentious beauty done up in hints of glamour.

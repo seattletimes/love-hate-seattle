@@ -12,24 +12,26 @@
     <header class="splash">
       <img src="assets/photos/Tbeason-Lovehate-seattle-header.jpg" alt="<%= json.photos.header.caption %>">
       <div class="headline">
-        <h1>I hate you, Seattle</h1>
+        <h1>I hate you, Seattle:</h1>
         <h2>A love story</h2>
       </div>
     </header>
     <main>
-      <section>
+      
         <div class="byline">
-          <span>By <a href="https://www.seattletimes.com/author/tyrone-beason/">Tyrone Beason</a></span>
+          <span>Essay and photos by <a href="https://www.seattletimes.com/author/tyrone-beason/">Tyrone Beason</a></span>
           <span class="staff">Pacific NW magazine writer</span>
-          <span class="date">Published July TK, 2018</span>
+          <span class="date">Published July 26, 2018</span>
         </div>
       </section>
       <section>
         <%= t.renderMarkdown(archieml.story.section1_1) %>
-        <%= t.include("_image-group.html", { json, num: 1 }) %>
+        <aside class="audio">For his last Pacific NW story before becoming the paper's social-justice columnist, Tyrone Beason writes about rekindling the flame with his adoptive hometown.<hr><a href="https://www.seattletimes.com/pacific-nw-magazine/the-backstory-the-story-behind-an-affair-to-reconsider/">Read the backstory the story behind an affair to reconsider</a></aside>
         <%= t.renderMarkdown(archieml.story.section1_2) %>
-        <%= t.include("_image-group.html", { json, num: 2 }) %>
+        <%= t.include("_image-group.html", { json, num: 1 }) %>
         <%= t.renderMarkdown(archieml.story.section1_3) %>
+        <%= t.include("_image-group.html", { json, num: 2 }) %>
+        <%= t.renderMarkdown(archieml.story.section1_4) %>
       </section>
       <img class="bleed" src="assets/photos/<%= json.photos.section1.new_file_name %>.jpg" alt="<%= json.photos.section1.caption %>">
       <section>
@@ -48,16 +50,18 @@
         <aside class="audio">
           <div>
             <img src="assets/photos/Tbeason-Lovehate-seattle-monique.jpg" alt="Portrait of Monique Brown">
-            <span>Listen to Monique Brown</span>
+            <span><strong>Listen to Monique Brown</strong></span>
           </div>
           <audio src="assets/monique-brown.mp3" controls preload="metadata">
             Your browser is not able to play this audio.
           </audio>
+          <p> Monique Brown, who works with local homeless veterans, embodies the altruistic spirit that made reporter Tyrone Beason put down roots in Seattle. Listen to her story.</p>
         </aside>
         <%= t.renderMarkdown(archieml.story.section3_3) %>
       </section>
-      <%= t.include("_video.html", { id: "TK" }) %>
+      <<%= t.include("_video.html", { id: "TK" }) %> 
       <section>
+        
         <%= t.renderMarkdown(archieml.story.section4_1) %>
         <%= t.include("_image-group.html", { json, num: 6 }) %>
         <%= t.renderMarkdown(archieml.story.section4_2) %>

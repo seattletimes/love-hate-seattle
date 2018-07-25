@@ -15,5 +15,6 @@
   "image": "assets/social.jpg",
   "sheets": ["1pD7S3TFjR0Oj3myfLf9Gqqww96LqJb3Xvr4tLzQWH2s"],
   "standout": false,
-  "embedded": false
+  "embedded": false,
+  "production": true
 }
